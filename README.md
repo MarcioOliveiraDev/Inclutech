@@ -29,3 +29,7 @@ IncluTech é uma iniciativa desenvolvida como parte da residência OnBoard do Po
 - [Diagrama de Fluxo de Telas (https://github.com/MarcioOliveiraDev/Inclutech/blob/main/Inclutech/IncluTECH%20Squad%2032/Diagrama%20de%20Fluxo%20de%20telas%20(Squad%2032).pdf)
 - [Lean Canvas] (https://github.com/MarcioOliveiraDev/Inclutech/blob/main/Inclutech/IncluTECH%20Squad%2032/Lean%20Canvas%20Squad%2032%20(IncluTech).pdf)
 
+## Licença
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
+
+
