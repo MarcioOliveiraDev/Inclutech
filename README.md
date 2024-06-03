@@ -26,6 +26,6 @@ IncluTech é uma iniciativa desenvolvida como parte da residência OnBoard do Po
 
 - [Vídeo do Pitch](https://youtu.be/VLwVDk12ocA)
 - [Protótipo no Figma](https://www.figma.com/proto/ie2cEDV1w57VnKiSXP1ksJ/App-IncluTech?node-id=0%3A1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
-- [Diagrama de Fluxo de Telas]([path_to_your_diagram](https://github.com/MarcioOliveiraDev/Inclutech/blob/main/Inclutech/IncluTECH%20Squad%2032/Diagrama%20de%20Fluxo%20de%20telas%20(Squad%2032).pdf))
-- [Lean Canvas]([path_to_your_lean_canvas](https://github.com/MarcioOliveiraDev/Inclutech/blob/main/Inclutech/IncluTECH%20Squad%2032/Lean%20Canvas%20Squad%2032%20(IncluTech).pdf))
+- [Diagrama de Fluxo de Telas (https://github.com/MarcioOliveiraDev/Inclutech/blob/main/Inclutech/IncluTECH%20Squad%2032/Diagrama%20de%20Fluxo%20de%20telas%20(Squad%2032).pdf)
+- [Lean Canvas] (https://github.com/MarcioOliveiraDev/Inclutech/blob/main/Inclutech/IncluTECH%20Squad%2032/Lean%20Canvas%20Squad%2032%20(IncluTech).pdf)
 
